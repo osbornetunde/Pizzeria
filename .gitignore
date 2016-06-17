@@ -1,0 +1,3 @@
+tuns/
+__pycache__/
+*.sqlite3
